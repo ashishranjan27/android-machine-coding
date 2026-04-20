@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_back
+drawable ic_star_selector
+id action_productListFragment_to_productDetailsFragment
+id error
+id imageView
+id itemView
+id nav_graph
+id nav_host_fragment
+id price
+id productDetailsFragment
+id productListFragment
+id progressBar
+id recycler
+id retry
+id title
+id toolbar
+layout activity_main
+layout fragment_product_details
+layout fragment_product_list
+layout item_product_list
+navigation nav_graph
+string hello_blank_fragment
+style Theme.PokemonBrowser

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.app-merged_res-53:/drawable_ic_back.xml.flat",
+        "source": "com.example.app-main-55:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-53:/layout_fragment_product_details.xml.flat",
+        "source": "com.example.app-main-55:/layout/fragment_product_details.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-53:/navigation_nav_graph.xml.flat",
+        "source": "com.example.app-main-55:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-53:/layout_fragment_product_list.xml.flat",
+        "source": "com.example.app-main-55:/layout/fragment_product_list.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-53:/drawable_ic_star_selector.xml.flat",
+        "source": "com.example.app-main-55:/drawable/ic_star_selector.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-53:/layout_item_product_list.xml.flat",
+        "source": "com.example.app-main-55:/layout/item_product_list.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-53:/layout_activity_main.xml.flat",
+        "source": "com.example.app-main-55:/layout/activity_main.xml"
+    }
+]
